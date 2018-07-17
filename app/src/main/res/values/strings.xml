@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Dictionary App</string>
+    <string name="example">Example</string>
+
+    <string name="hintTranslation">Please enter the translation here</string>
+    <string name="hintStudentID">Student ID</string>
+
+    <string name="btnProceed">Proceed</string>
+    <string name="btnTranslate">Translate</string>
+    <string name="btnChecking">Checking</string>
+    <string name="btnNext">Next Word</string>
+    <string name="btnFinish">Finish</string>
+    <string name="btnEdit">Edit</string>
+    <string name="btnChecked">Checked</string>
+
+    <string name="titleHome">Home</string>
+    <string name="titleLogin">Login</string>
+    <string name="titleTranslate">Translate</string>
+    <string name="titleChecking">Checking</string>
+
+    <string name="insertTranslateURL">https://kongyh-wa15.000webhostapp.com/insertTranslate.php</string>
+    <string name="selectWordURL">https://kongyh-wa15.000webhostapp.com/selectWord.php</string>
+    <string name="selectResponseURL">https://kongyh-wa15.000webhostapp.com/selectResponse.php</string>
+    <string name="editingStatusURL">https://kongyh-wa15.000webhostapp.com/editing.php</string>
+    <string name="updateWordURL">https://kongyh-wa15.000webhostapp.com/updateWord.php</string>
+    <string name="updateCheckURL">https://kongyh-wa15.000webhostapp.com/updateCheck.php</string>
+
+    <string name="textOriginal">Original</string>
+    <string name="textAnswer">Answer</string>
+    <string name="textInstruction">Please check if the translation is correct. If not sure wether the answer is correct, press NEXT. If it\'s incorrect or inaccurate, press the EDIT button to provide a correct answer. Else, press the CHECKED button when the translation is correct.</string>
+    <string name="textDescription">This app is created to speed up the development process of Lexicon building. Hence, this app is not created with validation checking. Please use it in proper way to avoid bug/crashes</string>
+
+</resources>
